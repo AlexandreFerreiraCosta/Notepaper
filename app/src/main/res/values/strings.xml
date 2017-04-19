@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notepaper</string>
+    <string name="auth_failed">Usúario ou Senha Incorreto</string>
+    <string name="title_activity_menu">Notepaper</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email">""</string>
+    <string name="user">""</string>
+    <string name="sair">Sair</string>
+</resources>

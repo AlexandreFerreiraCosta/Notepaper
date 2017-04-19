@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_prova"
+            android:icon="@drawable/res"
+            android:title="Prova" />
+        <item
+            android:id="@+id/nav_trabalho"
+            android:icon="@drawable/icone_trabalho"
+            android:title="Trabalho" />
+        <item
+            android:id="@+id/nav_frequencia"
+            android:icon="@drawable/icone_frequencia"
+            android:title="Frequência" />
+        <item
+            android:id="@+id/nav_calendario"
+            android:icon="@drawable/icone_calendario"
+            android:title="Calendario Acadêmico" />
+    </group>
+
+    <item android:title="Mais">
+        <menu>
+            <item
+                android:id="@+id/nav_mapa"
+                android:icon="@drawable/iconemapas"
+                android:title="Mapa da Instituição" />
+
+            <item
+                android:id="@+id/nav_configuracao"
+                android:icon="@drawable/icone_configuracao"
+                android:title="Configurações" />
+
+            <item
+                android:id="@+id/nav_sair"
+                android:icon="@drawable/icone_sair"
+                android:title="Sair" />
+        </menu>
+    </item>
+
+</menu>

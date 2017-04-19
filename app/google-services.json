@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "727730081905",
+    "firebase_url": "https://notepaper-bf837.firebaseio.com",
+    "project_id": "notepaper-bf837",
+    "storage_bucket": "notepaper-bf837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727730081905:android:936f1a611f209c71",
+        "android_client_info": {
+          "package_name": "com.example.alexandre.notepaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727730081905-35bk2rln3jskcm5tl12m42j0a2oeje10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGCjoT9Wj1ZvTqDySWzJ2c_xew6xxWDaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
