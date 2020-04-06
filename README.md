@@ -17,4 +17,4 @@ Sera efetuado melhorias no projeto.
 
 ## Configurações do projetos nas IDE
 
-Este projeto é um projeto Java Android. Com isso, o processo de configuração dele é o padrão de qualquer projeto Android.
+Este projeto é um projeto Java Android. Com isso, o processo de configuração dele é o padrão de qualquer projeto Java Android.
